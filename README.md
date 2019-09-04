@@ -5,6 +5,8 @@ This C++ program replaces the car name strings in RichardBurnsRally_SSE.exe with
 The original size of RichardBurnsRally_SSE.exe is maintained and the strings are kept the same length as the originals(This means sometimes the last part of a car name is cut off).
 If it can't find the car names it will replace the defaults.
 
+Download: https://github.com/zoom377/RBRStringChanger/raw/master/Release/RBRStringChanger.exe
+
 How to use:
 1. Backup RichardBurnsRally_SSE.exe just in case!
 2. Place RBRStringChanger.exe in RBR directory
